@@ -1,6 +1,5 @@
 CACHE MANIFEST
-#v0.0.2 added national anthem
+#v0.0.3 do not cache the html
 
 CACHE:
-/
 /medvedev.jpg
